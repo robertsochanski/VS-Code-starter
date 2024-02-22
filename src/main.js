@@ -6,4 +6,4 @@ import './styles/style.css'
 // animateTitle()
 
 console.log('Welcome to Vite + JS + Webflow!')
-console.log(`Hello Junior!!`)
+console.log(`Hello Junior!!!!`)
